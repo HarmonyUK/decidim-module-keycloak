@@ -9,7 +9,7 @@ OmniAuth strategy for Keycloak.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem "decidim-keycloak", git: "https://github.com/Platoniq/decidim-module-keycloak", branch: "main"
+gem "decidim-keycloak", git: "https://github.com/HarmonyUK/decidim-module-keycloak", branch: "main"
 ```
 
 And then execute:
